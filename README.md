@@ -1,4 +1,4 @@
-###### Wikipedia App
+# Wikipedia App
 Wikipedia App that pulls from the wikipedia API to give you multiple results for a search term. Credit to Danascript on youtube for this amazing tutorial.
 <br/>
 ### Stack Used
